@@ -1,0 +1,67 @@
+body
+{
+font-family:verdana,arial,sans-serif;
+color: #01300B;
+background-color: #B6F50A;
+font-size:.75em;
+background-image:url('images/bg2.gif');
+background-position: center;
+}
+
+
+
+h1
+{ 
+color: black;
+background-color:#50a162;
+text-align: center;
+letter-spacing: 5px;
+font-weight: normal;
+padding: 5px 0px;
+border-top: 4px groove black;
+border-bottom: 4px groove black;
+border-left: 4px groove black;
+border-right: 4px groove black;
+text-shadow: -1px 1px #01300B;
+}
+
+a:link
+{
+color:#aa4339;
+}
+
+a:visited
+{
+color: #550800;	
+padding: 0px 2px;
+}
+
+a:hover
+{
+color:#550800;
+background-color: white;
+}
+
+table, th, td
+{
+width: 60%;
+border: 10px, solid, black;
+border-radius: 20;
+padding: 5px;	
+}
+
+.centeredtext
+{
+text-align: center;
+}
+
+#maroontext
+{
+color: maroon;
+}
+
+
+
+
+
+}
